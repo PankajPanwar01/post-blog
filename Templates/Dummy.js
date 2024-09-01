@@ -1,0 +1,5 @@
+
+function ClickMe() {
+
+    alert("hello")
+}
